@@ -4,15 +4,25 @@
 
 <div align="center">
 
+  <img src="https://img.shields.io/badge/Achievement-3rd%20Place-gold?style=for-the-badge" alt="3rd Place" />
   <img src="https://img.shields.io/badge/Category-Python%20Application-blue?style=for-the-badge" alt="Category" />
 
 </div>
 
 ---
 
+## 🏆 Achievement
+
+> 🥉 **3rd Place — Python Application Category**
+> **FESTIKA AREK AI 2025**
+
+**Ngulik Si Jatim** achieved **3rd Place in the Python Application Category** at **FESTIKA AREK AI 2025**, representing **SMKN 2 Mojokerto**.
+
+---
+
 ## 📖 About The Project
 
-**Ngulik Si Jatim** is a Python-based application developed to participate in the **FESTIKA AREK AI 2025** competition, representing **SMKN 2 Mojokerto** in the Python Application category.
+**Ngulik Si Jatim** is a Python-based application developed for the **FESTIKA AREK AI 2025** competition, representing **SMKN 2 Mojokerto** in the Python Application category.
 
 The project was designed to deliver an interactive and innovative digital solution that explores the potential, culture, and wealth of information surrounding **East Java (Jawa Timur)** through the use of Python programming technology.
 
@@ -53,8 +63,6 @@ python --version
 
 #### 1. Clone the Repository
 
-Clone this repository to your local machine:
-
 ```bash
 git clone https://github.com/Ghznn-ind/FESTIKA-AREK-AI-2025-SMKN-2-MOJOKERTO-JAYASIMHA.git
 ```
@@ -85,13 +93,11 @@ python main.py
 
 ---
 
-## 🏆 Competition
+## 🏅 Competition Recognition
 
-**FESTIKA AREK AI 2025**
-
-* **Category:** Python Application
-* **Institution:** SMKN 2 Mojokerto
-* **Project:** Ngulik Si Jatim
+| Achievement      | Competition          | Category           | Institution      |
+| ---------------- | -------------------- | ------------------ | ---------------- |
+| 🥉 **3rd Place** | FESTIKA AREK AI 2025 | Python Application | SMKN 2 Mojokerto |
 
 ---
 
@@ -108,7 +114,9 @@ python main.py
 
 **Completed**
 
-This project was developed as part of the **FESTIKA AREK AI 2025** competition and represents an exploration of Python-based application development with a focus on presenting information about East Java in an interactive and accessible way.
+This project was developed as part of the **FESTIKA AREK AI 2025** competition and successfully achieved **3rd Place in the Python Application Category**.
+
+The project represents an exploration of Python-based application development with a focus on presenting information about East Java in an interactive and accessible way.
 
 ---
 
